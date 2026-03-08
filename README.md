@@ -61,12 +61,10 @@
 
 <br>
 
-**Visitors Count**
-<br>
-![](https://visitcount.itsvg.in/api?id=SAYANui&icon=5&color=0)
-
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 ---
 
 <div align="center">
