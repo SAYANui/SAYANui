@@ -50,13 +50,21 @@
 ![Git](https://img.shields.io/badge/-Git-00FFFF?style=flat-square&logo=git&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-00FFFF?style=flat-square&logo=postman&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-00FFFF?style=flat-square&logo=amazon-aws&logoColor=black)
+<br><br>
 <div align="center">
- 📊 GitHub Stats:
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=📊 GitHub Stats:&fontColor=00FFFF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=📊GitHubStats:&fontColor=00FFFF&animation=twinkling" />
+
+<div align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" />
+
+
+
 ---
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00ffff" />
@@ -64,8 +72,4 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYmRzdmR6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=60&color=gradient&customColorList=12,20,24&animation=twinkling&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=YOURTEXT&fontColor=00FFFF&animation=twinkling" />
-  <img src="https://raw.githubusercontent.com/SAYANui/SAYANui/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,docker,aws,git&theme=dark&perline=5" />
 </div>
