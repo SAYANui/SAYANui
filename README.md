@@ -5,9 +5,6 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
 <br>
-*(To change the GIF, just replace the URL in the 'src' above!)*
-
----
 
 [![Instagram](https://img.shields.io/badge/Instagram-%2300FFFF.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/sayan_13425) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/sayansarkar2005)
@@ -19,8 +16,6 @@
 ---
 
 ## 🛠️ Decoding My System
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYmRzdmR6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif">
-
 - 🚀 **Current Mission:** Leveling up in **Java & Spring Boot** to master backend scaling.
 - 🔭 **Building:** [AdmissionPRO](https://github.com/SAYANui) - Digitizing the chaos of college admissions.
 - 🌱 **Learning:** AWS Cloud deployment and Advanced System Architecture.
@@ -49,17 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-00FFFF?style=flat-square&logo=git&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-00FFFF?style=flat-square&logo=postman&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-00FFFF?style=flat-square&logo=amazon-aws&logoColor=black)
-
----
-
-## 📊 Performance Metrics
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&text_color=00ffff&icon_color=00ffff&title_color=00ffff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=00ffff&icon_color=00ffff&title_color=00ffff)
-
-<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
@@ -69,4 +54,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00ffff" />
+  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYmRzdmR6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
