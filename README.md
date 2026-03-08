@@ -17,7 +17,7 @@
 
 ## 🛠️ Decoding My System
 - 🚀 **Current Mission:** Leveling up in **Java & Spring Boot** to master backend scaling.
-- 🔭 **Building:** [AdmissionPRO](https://github.com/SAYANui) - Digitizing the chaos of college admissions.
+- 🔭 **Building:** [AdmissionPRO](https://github.com/SAYANui/AdmissionPRO.git) - Digitizing the chaos of college admissions.
 - 🌱 **Learning:** AWS Cloud deployment and Advanced System Architecture.
 - 💬 **Ask Me About:** MERN Stack, React UI/UX, and why I love clean Tailwind code.
 - ⚡ **Fun Fact:** When I'm not coding, I'm likely editing high-octane videos or exploring high-performance car specs.
