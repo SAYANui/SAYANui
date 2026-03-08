@@ -1,21 +1,74 @@
-# 💫 About Me:
-Hi there, I'm Sayan! 👋<br>🚀 Tech Enthusiast | Web & App Developer | Future Full-Stack Developer<br><br>🔭 I’m currently learning<br>Java, Spring Boot, React, Node.js, MongoDB, and AWS to build full-stack web applications.<br><br>🤝 I’m looking to collaborate on<br>Full-stack web projects, especially projects built with React, Node.js, or Java backend.<br><br>🛠️ I’m looking for help with<br>Improving backend architecture, APIs, and deployment (AWS / cloud).<br><br>🌱 I’m currently learning<br>Java, Spring Boot, React, Node.js, MongoDB, and AWS to become a Full-Stack Developer.<br><br>💬 Ask me about<br>HTML, CSS, React basics, frontend projects, and getting started with web development.<br><br>⚡ Fun fact<br>I’m a BCA student passionate about building real-world tech projects and aiming to become a full-stack developer and entrepreneur.<br>
+<div align="center">
 
+# 💫 𝚂𝚊𝚢𝚊𝚗 𝚂𝚊𝚛𝚔𝚊𝚛
+### ⚡ Full-Stack Architect in the Making ⚡
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayan_13425) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayansarkar2005) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sayans2005) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/oooooiooos) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eagan70703230) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@Darkedits4u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eganer495@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
+<br>
+*(To change the GIF, just replace the URL in the 'src' above!)*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SAYANui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%2300FFFF.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/sayan_13425) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/sayansarkar2005)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=%2300FFFF)](https://x.com/eagan70703230)
+[![YouTube](https://img.shields.io/badge/YouTube-%2300FFFF.svg?style=for-the-badge&logo=YouTube&logoColor=black)](https://youtube.com/@Darkedits4u)
+
+</div>
+
+---
+
+## 🛠️ Decoding My System
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYmRzdmR6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+- 🚀 **Current Mission:** Leveling up in **Java & Spring Boot** to master backend scaling.
+- 🔭 **Building:** [AdmissionPRO](https://github.com/SAYANui) - Digitizing the chaos of college admissions.
+- 🌱 **Learning:** AWS Cloud deployment and Advanced System Architecture.
+- 💬 **Ask Me About:** MERN Stack, React UI/UX, and why I love clean Tailwind code.
+- ⚡ **Fun Fact:** When I'm not coding, I'm likely editing high-octane videos or exploring high-performance car specs.
+
+---
+
+## 💻 Tech Arsenal
+### 🌐 Frontend & Design
+![React](https://img.shields.io/badge/-React-00FFFF?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-00FFFF?style=flat-square&logo=tailwind-css&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-00FFFF?style=flat-square&logo=figma&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-00FFFF?style=flat-square&logo=vite&logoColor=black)
+
+### ⚙️ Backend & Database
+![Java](https://img.shields.io/badge/-Java-00FFFF?style=flat-square&logo=openjdk&logoColor=black)
+![Spring](https://img.shields.io/badge/-Spring--Boot-00FFFF?style=flat-square&logo=spring&logoColor=black)
+![NodeJS](https://img.shields.io/badge/-Node.js-00FFFF?style=flat-square&logo=node.js&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00FFFF?style=flat-square&logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-00FFFF?style=flat-square&logo=mysql&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-00FFFF?style=flat-square&logo=firebase&logoColor=black)
+
+### 🔧 Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-00FFFF?style=flat-square&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-00FFFF?style=flat-square&logo=git&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-00FFFF?style=flat-square&logo=postman&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-00FFFF?style=flat-square&logo=amazon-aws&logoColor=black)
+
+---
+
+## 📊 Performance Metrics
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&text_color=00ffff&icon_color=00ffff&title_color=00ffff)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=00ffff&icon_color=00ffff&title_color=00ffff)
+
+<br>
+
+**Visitors Count**
+<br>
+![](https://visitcount.itsvg.in/api?id=SAYANui&icon=5&color=0)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00ffff" />
+</div>
