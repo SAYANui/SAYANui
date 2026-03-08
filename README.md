@@ -1,7 +1,8 @@
 <div align="center">
 
-# 💫 𝚂𝚊𝚢𝚊𝚗 𝚂𝚊𝚛𝚔𝚊𝚛
-### ⚡ Full-Stack Architect in the Making ⚡
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,20,24&text=Sayan%20Sarkar&fontSize=70&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2&animation=twinkling&fontAlignY=55&desc=⚡%20Full-Stack%20Architect%20in%20the%20Making%20⚡&descAlignY=75&descSize=16&descColor=88EEFF" />
+
+<br/>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
 <br>
