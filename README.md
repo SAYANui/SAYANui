@@ -71,5 +71,16 @@
   <br/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYmRzdmR6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" />
+  <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sayan-sarkar&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&customColorList=12,20,24&text=Keep%20Coding.%20Keep%20Growing.%20%F0%9F%9A%80&fontSize=28&fontColor=00FFFF&stroke=00FFFF&strokeWidth=1&animation=fadeIn" />
+<div align="center">
+*⭐ If you like my work, consider starring my repositories!*
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=00FFFF&animation=twinkling&fontAlignY=70" />
 </div>
