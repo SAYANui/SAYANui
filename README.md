@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppM204MGZxN3d6c2FqbGlyczQ2NjNtZngxdmIzb2g5emUycWh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZP5De3UVGXA9GuiJc/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
 <br><br>
 💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎 
 </br></br>
@@ -69,12 +69,14 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00ffff" />
   <br/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtuYmRzdmR6bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 </div>
   <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayan-sarkar&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFiYmtwOGJ6NTg2cnB5ZWtwdDU2c3JiZmI3aDhrb212aXVsNnFjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
 </div>
 
 ---
