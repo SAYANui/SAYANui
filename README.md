@@ -14,18 +14,16 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=%2300FFFF)](https://x.com/eagan70703230)
 [![YouTube](https://img.shields.io/badge/YouTube-%2300FFFF.svg?style=for-the-badge&logo=YouTube&logoColor=black)](https://youtube.com/@Darkedits4u)
 </div>
-      
+</div>
 
+<div align="center">
+       🐍 🐍 🐍 🐍 🐍 🐍+++++++++++++++++++ My Contribution Snake +++++++++++++++++++🐍 🐍 🐍 🐍 🐍 🐍 
 <p align="center">
-       🐍 My Contribution Snake
-  <img src="https://raw.githubusercontent.com/SAYANui/SAYANui/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/SAYANui/SAYANui/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 
-
-
-
----
+<div align="left">
 
 ## 🛠️ Decoding My System
 - 🚀 **Current Mission:** Leveling up in **Java & Spring Boot** to master backend scaling.
@@ -89,5 +87,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=00FFFF&animation=twinkling&fontAlignY=70" />
          <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
 </div>
-
 
