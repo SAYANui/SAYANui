@@ -1,13 +1,27 @@
+<table align="center" border="0">
+  <tr>
+    <td></td>
+    <td>
+
 <div align="center">
 
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,20,24&text=Sayan%20Sarkar&fontSize=70&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2&animation=twinkling&fontAlignY=55&descAlignY=75&descSize=16&descColor=88EEFF" />
-<br> 💎 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎 </br>
+<br>💎💎💎💎💎💎💎💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎💎💎💎💎💎💎</br>
 
 <br/>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppM204MGZxN3d6c2FqbGlyczQ2NjNtZngxdmIzb2g5emUycWh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZP5De3UVGXA9GuiJc/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
-<br><br>
-💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎 
+<table align="center" border="0">
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppM204MGZxN3d6c2FqbGlyczQ2NjNtZngxdmIzb2g5emUycWh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZP5De3UVGXA9GuiJc/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
+    </td>
+    <td></td>
+  </tr>
+</table>
+💎💎💎💎💎💎💎💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎💎💎💎💎💎💎
 </br></br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%2300FFFF.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/sayan_13425) 
@@ -68,21 +82,31 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00ffff" />
-  <br/>
-
-</div>
-  <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayan-sarkar&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFiYmtwOGJ6NTg2cnB5ZWtwdDU2c3JiZmI3aDhrb212aXVsNnFjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
-</div>
-
 ---
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&customColorList=12,20,24&text=Keep%20Coding.%20Keep%20Growing.%20%F0%9F%9A%80&fontSize=28&fontColor=00FFFF&stroke=00FFFF&strokeWidth=1&animation=fadeIn" />
 <div align="center">
 *⭐ If you like my work, consider starring my repositories!*
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=00FFFF&animation=twinkling&fontAlignY=70" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </td>
+    <td></td>
+  </tr>
+</table>
+
