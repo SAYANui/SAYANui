@@ -7,20 +7,23 @@
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppM204MGZxN3d6c2FqbGlyczQ2NjNtZngxdmIzb2g5emUycWh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZP5De3UVGXA9GuiJc/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
 </div>
 💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎
-</br></br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%2300FFFF.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/sayan_13425) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/sayansarkar2005)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=%2300FFFF)](https://x.com/eagan70703230)
-[![YouTube](https://img.shields.io/badge/YouTube-%2300FFFF.svg?style=for-the-badge&logo=YouTube&logoColor=black)](https://youtube.com/@Darkedits4u)
+</br>
 </div>
 </div>
 
 <div align="center">
- 💎🐍💎--++++++++++++++}   My Contribution Snake {++++++++++++++--💎🐍💎
 <p align="center">
   <img src="https://SAYANui.github.io/SAYANui/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
+<div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=📊GitHubStats:&fontColor=00FFFF&animation=twinkling" />
+
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
 
 
 <div align="left">
@@ -31,7 +34,8 @@
 - 🌱 **Learning:** AWS Cloud deployment and Advanced System Architecture.
 - 💬 **Ask Me About:** MERN Stack, React UI/UX, and why I love clean Tailwind code.
 - ⚡ **Fun Fact:** When I'm not coding, I'm likely editing high-octane videos or exploring high-performance car specs.
- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" /><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" /><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" /></p>
 
 
 ---
@@ -60,20 +64,9 @@
 
 <div align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+the+Future" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=📊GitHubStats:&fontColor=00FFFF&animation=twinkling" />
-
-<div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
-
-
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00ffff" />
