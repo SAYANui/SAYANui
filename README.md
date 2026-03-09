@@ -19,7 +19,7 @@
 <div align="center">
  💎🐍💎--++++++++++++++}   My Contribution Snake {++++++++++++++--💎🐍💎
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SAYANui/SAYANui/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://SAYANui.github.io/SAYANui/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 
