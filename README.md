@@ -12,15 +12,9 @@
 <br>💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎</br>
 
 <br/>
-<table align="center" border="0">
-  <tr>
-    <td></td>
-    <td>
+<div align="center" >
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppM204MGZxN3d6c2FqbGlyczQ2NjNtZngxdmIzb2g5emUycWh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZP5De3UVGXA9GuiJc/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
-    </td>
-    <td></td>
-  </tr>
-</table>
+</div>
 💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎
 </br></br>
 
