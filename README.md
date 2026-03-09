@@ -1,6 +1,6 @@
 <div align="center" >
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,20,24&text=Sayan%20Sarkar&fontSize=70&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2&animation=twinkling&fontAlignY=55&descAlignY=75&descSize=16&descColor=88EEFF" />
-<br>💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎</br>
+<br>💎💎💎<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+the+Future" />💎💎💎</br>
 
 <br/>
 <div align="center" >
@@ -23,9 +23,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
-
-
 <div align="left">
 
 ## 🛠️ Decoding My System
@@ -63,7 +60,11 @@
 <br><br>
 
 <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+the+Future" />
+      
+[![Instagram](https://img.shields.io/badge/Instagram-%2300FFFF.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/sayan_13425) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FFFF.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/sayansarkar2005)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=%2300FFFF)](https://x.com/eagan70703230)
+[![YouTube](https://img.shields.io/badge/YouTube-%2300FFFF.svg?style=for-the-badge&logo=YouTube&logoColor=black)](https://youtube.com/@Darkedits4u)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
 </div>
