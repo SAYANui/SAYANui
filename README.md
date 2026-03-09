@@ -24,7 +24,7 @@
 - 🌱 **Learning:** AWS Cloud deployment and Advanced System Architecture.
 - 💬 **Ask Me About:** MERN Stack, React UI/UX, and why I love clean Tailwind code.
 - ⚡ **Fun Fact:** When I'm not coding, I'm likely editing high-octane videos or exploring high-performance car specs.
- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" /><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
 
 
 ---
@@ -50,6 +50,11 @@
 ![Postman](https://img.shields.io/badge/-Postman-00FFFF?style=flat-square&logo=postman&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-00FFFF?style=flat-square&logo=amazon-aws&logoColor=black)
 <br><br>
+
+<div align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+the+Future" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=📊GitHubStats:&fontColor=00FFFF&animation=twinkling" />
 
@@ -59,6 +64,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
 
 
 
@@ -70,9 +76,8 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFiYmtwOGJ6NTg2cnB5ZWtwdDU2c3JiZmI3aDhrb212aXVsNnFjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&customColorList=12,20,24&text=Keep%20Coding.%20Keep%20Growing.%20%F0%9F%9A%80&fontSize=28&fontColor=00FFFF&stroke=00FFFF&strokeWidth=1&animation=fadeIn" />
 <div align="center">
-*⭐ If you like my work, consider starring my repositories!*
+🌟🌟🌟🌟🌟🌟 If you like my work, consider starring my repositories!🌟🌟🌟🌟🌟🌟
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=20&fontColor=00FFFF&animation=twinkling&fontAlignY=70" />
+         <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" />
 </div>
-
-
 
