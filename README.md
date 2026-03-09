@@ -62,16 +62,12 @@
 
 
 
----
-
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&text_color=00ffff" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayan-sarkar&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFiYmtwOGJ6NTg2cnB5ZWtwdDU2c3JiZmI3aDhrb212aXVsNnFjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" alt="Cyberpunk Tech GIF">
----
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&customColorList=12,20,24&text=Keep%20Coding.%20Keep%20Growing.%20%F0%9F%9A%80&fontSize=28&fontColor=00FFFF&stroke=00FFFF&strokeWidth=1&animation=fadeIn" />
 <div align="center">
 *⭐ If you like my work, consider starring my repositories!*
