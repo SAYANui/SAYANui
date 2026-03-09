@@ -9,7 +9,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,20,24&text=Sayan%20Sarkar&fontSize=70&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2&animation=twinkling&fontAlignY=55&descAlignY=75&descSize=16&descColor=88EEFF" />
-<br>💎💎💎💎💎💎💎💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎💎💎💎💎💎💎</br>
+<br>💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎</br>
 
 <br/>
 <table align="center" border="0">
@@ -21,7 +21,7 @@
     <td></td>
   </tr>
 </table>
-💎💎💎💎💎💎💎💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎💎💎💎💎💎💎
+💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎
 </br></br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%2300FFFF.svg?style=for-the-badge&logo=Instagram&logoColor=black)](https://instagram.com/sayan_13425) 
