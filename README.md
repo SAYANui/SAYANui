@@ -115,13 +115,13 @@
 
 
 
-
-### 📑 Striver A2Z Roadmap
-| Section | Progress | Status |
-| :--- | :---: | :--- |
-| **Step 1: Basics** | 31/31 | ![Success](https://img.shields.io/badge/-Completed-success) |
-| **Step 2: Sorting** | 7/7 | ![Success](https://img.shields.io/badge/-Completed-success) |
-| **Step 3: Arrays** | 15/40 | ![Working](https://img.shields.io/badge/-In%20Progress-blue) |
+### 📈 Striver A2Z Roadmap Progress
+| Step | Topic | Progress | Status |
+| :--- | :--- | :---: | :--- |
+| **01** | **Basics** | ![31/31](https://img.shields.io/badge/31%2F31-8A2BE2) | ![Success](https://img.shields.io/badge/-Completed-success) |
+| **02** | **Sorting** | ![7/7](https://img.shields.io/badge/7%2F7-8A2BE2) | ![Success](https://img.shields.io/badge/-Completed-success) |
+| **03** | **Arrays** | ![0/40](https://img.shields.io/badge/0%2F40-grey) | ![Working](https://img.shields.io/badge/-In%20Progress-blue) |
+| **04** | **Binary Search** | ![0/32](https://img.shields.io/badge/0%2F32-grey) | ![Pending](https://img.shields.io/badge/-Upcoming-lightgrey) |
 
 -->
 
