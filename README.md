@@ -98,3 +98,32 @@
 </div>
 
 
+
+
+
+
+
+<!--
+
+
+
+### 🚀 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sayanui2005?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats" />
+</p>
+
+
+
+
+
+### 📑 Striver A2Z Roadmap
+| Section | Progress | Status |
+| :--- | :---: | :--- |
+| **Step 1: Basics** | 31/31 | ![Success](https://img.shields.io/badge/-Completed-success) |
+| **Step 2: Sorting** | 7/7 | ![Success](https://img.shields.io/badge/-Completed-success) |
+| **Step 3: Arrays** | 15/40 | ![Working](https://img.shields.io/badge/-In%20Progress-blue) |
+
+-->
+
+
+
