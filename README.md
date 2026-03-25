@@ -1,5 +1,16 @@
-<div align="center" >
+
+
+
+<!--<div align="center" >
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=12,20,24&text=Sayan%20Sarkar&fontSize=70&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2&animation=twinkling&fontAlignY=55&descAlignY=75&descSize=16&descColor=88EEFF"width="100%"/>
+-->
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:BD00FF,100:00FFFF&text=Sayan%20Sarkar&fontSize=70&fontColor=00FFFF&stroke=00FFFF&strokeWidth=2&fontAlignY=55&descAlignY=75&descSize=16&descColor=88EEFF" width="100%"/>
+
+
+      
 <br>💎💎💎<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+the+Future" />💎💎💎</br>
 
 <br/>
@@ -39,6 +50,17 @@
 - 🌱 **Learning:** AWS Cloud deployment and Advanced System Architecture.
 - 💬 **Ask Me About:** MERN Stack, React UI/UX, and why I love clean Tailwind code.
 - ⚡ **Fun Fact:** When I'm not coding, I'm likely editing high-octane videos or exploring high-performance car specs.
+
+
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SAYANui&bg_color=0D1117&color=00FFFF&line=BD00FF&point=FF00FF&area=true&area_color=00FFFF&hide_border=false&border_color=00FFFF)](https://github.com/SAYANui)
+
+</div>
+
+
+
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&animation=twinkling&section=footer" /><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&fontSize=20" /></p>
 
@@ -131,4 +153,5 @@
 -->
 
 *< reload -if something missing- >*
+
 
