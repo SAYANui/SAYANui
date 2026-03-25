@@ -21,8 +21,9 @@
 <div align="center" width="90%">
       
 <!--![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)-->
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAYANui&background=28153d&currStreakNum=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=bbbbbb&ring=00FFFF&fire=00FFFF&stroke=000000&hide_border=false&border=BD00FF)<br/>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAYANui&background=0D1117&border=00FFFF&stroke=BD00FF&ring=00FFFF&fire=FF00FF&currStreakNum=00FFFF&sideNums=BD00FF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=6272A4&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 
 <!--will use in future , bara code kor age -->
