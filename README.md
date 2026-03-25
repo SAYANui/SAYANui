@@ -19,8 +19,10 @@
         <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=📊GitHubStats:&fontColor=00FFFF&animation=twinkling"width="90%" />
 
 <div align="center" width="90%">
+      
+<!--![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)-->
  
-![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAYANui&background=28153d&currStreakNum=00FFFF&sideNums=00FFFF&sideLabels=FFFFFF&dates=bbbbbb&ring=00FFFF&fire=00FFFF&stroke=000000&hide_border=false&border=BD00FF)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 
 <!--will use in future , bara code kor age -->
