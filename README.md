@@ -34,9 +34,15 @@
 <!--![](https://nirzak-streak-stats.vercel.app/?user=SAYANui&theme=ambient_gradient&hide_border=true)-->
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAYANui&background=0D1117&border=00FFFF&stroke=BD00FF&ring=00FFFF&fire=FF00FF&currStreakNum=00FFFF&sideNums=BD00FF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=6272A4&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAYANui&background=0D1117&border=00FFFF&stroke=BD00FF&ring=00FFFF&fire=FF00FF&currStreakNum=00FFFF&sideNums=BD00FF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=6272A4&hide_border=false)<br/>
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAYANui&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=ambient_gradient)
+
+</br>
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
+-->
 <!--will use in future , bara code kor age -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SAYANui&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
