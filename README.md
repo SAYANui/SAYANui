@@ -24,7 +24,13 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://SAYANui.github.io/SAYANui/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAYANui/SAYANui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAYANui/SAYANui/output/github-contribution-grid-snake.svg">
+    <img alt="Sayan's Contribution Snake" src="https://raw.githubusercontent.com/SAYANui/SAYANui/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 </p>
 <div align="center">
         <img src="https://capsule-render.vercel.app/api?type=slice&height=100&color=gradient&customColorList=12,20,24&text=📊GitHubStats:&fontColor=00FFFF&animation=twinkling"width="90%" />
