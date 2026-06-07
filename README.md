@@ -12,8 +12,8 @@
 <br>💎💎💎<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot;Building+the+Future" />💎💎💎</br>
 
 <br/>
-<div align="center"width="90%" >
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHppM204MGZxN3d6c2FqbGlyczQ2NjNtZngxdmIzb2g5emUycWh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZP5De3UVGXA9GuiJc/giphy.gif" width="90%" alt="Cyberpunk Tech GIF"loop="infinite"/>
+<div align="center" >
+      <img src="https://github.com/user-attachments/assets/bfa9bde7-2e8a-445b-88f6-f640f85f20bd" width="76.7%" alt="Cyberpunk Tech GIF"loop="infinite"/>
 </div>
 💎💎💎<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot;MERN+Stack+Engineer" />💎💎💎
 </br>
@@ -126,7 +126,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sayan-sarkar&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFiYmtwOGJ6NTg2cnB5ZWtwdDU2c3JiZmI3aDhrb212aXVsNnFjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="83.5%" alt="Cyberpunk Tech GIF">
+
+
+<img width="83.5%"  alt="spider-man-staring" src="https://github.com/user-attachments/assets/db965e82-87f1-4ec5-870c-f551b3f33ec9" />
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&customColorList=12,20,24&text=Keep%20Coding.%20Keep%20Growing.%20%F0%9F%9A%80&fontSize=28&fontColor=00FFFF&stroke=00FFFF&strokeWidth=1&animation=fadeIn" />
 <div align="center">
 🌟🌟🌟🌟🌟🌟 If you like my work, consider starring my repositories!🌟🌟🌟🌟🌟🌟
