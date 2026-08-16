@@ -169,6 +169,3 @@
 *< reload -if something missing- >*
 
 
-
-![Trophies](https://raw.githubusercontent.com/SAYANui/SAYANui/main/trophy.svg)
-
